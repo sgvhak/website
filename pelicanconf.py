@@ -15,7 +15,7 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
-THEME = "../pelican-themes/pelican-cait"
+THEME = "theme/cait"
 
 # Blogroll
 LINKS =  (('Pelican', 'http://getpelican.com/'),

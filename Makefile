@@ -48,13 +48,13 @@ $(OUTPUTDIR)/%.html:
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || find $(OUTPUTDIR) -mindepth 1 -delete
-    touch $(OUTPUTDIR)/.empty
-3
+
 regenerate: clean
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 serve:
 	cd $(OUTPUTDIR) && $(PY) -m pelican.server
+	touch $(OUTPUTDIR)/.empty
 
 devserver:
 	$(BASEDIR)/develop_server.sh restart
