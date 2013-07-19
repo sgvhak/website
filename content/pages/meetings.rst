@@ -1,6 +1,9 @@
 Meetings
 ========
 
+:url: 
+:save_as: index.html
+
 Meetings occur on the the first and third Thursdays of the month, between 5pm and 9pm as well as the fourth Saturday of the month from 2pm to 6pm.
 
 The Thursday meetings are at:
