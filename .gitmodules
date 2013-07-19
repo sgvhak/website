@@ -1,3 +1,3 @@
 [submodule "theme/cait"]
 	path = theme/cait
-	url = https://github.com/hdra/pelican-cait.git
+	url = git@github.com:sgvhak/pelican-cait.git
