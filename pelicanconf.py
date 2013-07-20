@@ -16,8 +16,13 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 THEME = "theme/cait"
+LOGO_IMAGE = "/static/images/logo_01_cropped.png"
 
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+STATIC_PATHS = (['images'])
+
+#FILES_TO_COPY = (("CNAME","CNAME"),)
