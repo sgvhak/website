@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Omwah'
 SITENAME = u'SGVHAK'
+SITESUBTITLE = 'San Gabriel Valley Hardware Hackers Group'
 SITEURL = ''
 
 TIMEZONE = 'US/Pacific'
