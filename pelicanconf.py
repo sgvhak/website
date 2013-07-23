@@ -4,7 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Omwah'
 SITENAME = u'SGVHAK'
-SITESUBTITLE = 'San Gabriel Valley Hardware Hackers Group'
+SITESUBTITLE = 'San Gabriel Valley'
+SITESUBSUBTITLE = 'Hardware Hackers Group'
 SITELOGO = "/static/images/logo_01_cropped.png"
 SITEURL = ''
 
