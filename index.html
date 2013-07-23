@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>About</title>
+
+    <link rel="stylesheet" href="http://www.sgvhak.org/theme/css/main.css">
+    <link rel="stylesheet" href="http://www.sgvhak.org/theme/css/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <div><img src="/static/images/logo_01_cropped.png" class="logo-img"/></div>
+        <div class="title"><a href="http://www.sgvhak.org/">SGVHAK </a></div>
+        <div class="sub-title">San Gabriel Valley</div>
+        <div class="sub-title">Hardware Hackers Group</div>
+
+        <p>
+      <div class="view"><a href="http://www.sgvhak.org/">About</a></div>
+      <div class="view"><a href="http://www.sgvhak.org/pages/contact.html">Contact</a></div>
+      <div class="view"><a href="http://www.sgvhak.org/pages/meetings.html">Meetings</a></div>
+  </p>
+
+<!-- Social links -->
+
+      </header>
+      <section>
+      <section id="content" class="body">    
+    <h1 class="entry-title">About</h1>
+        
+        <p>Do you like working on hardware projects? Did you get a Raspberry Pi/Arduino/Kinect with the intentions of doing something cool? Do you wish that there was a local group where you can meet up with like-minded folks and actually make progress with your projects?</p>
+<p>Our group serves to connect fellow software and hardware geeks in the Los Angeles Basin and specifically the San Gabriel Valley. Our members meet to share some of the projects they've been working on and get ideas for new ones. Our intention is to spur collaboration and enthusiasm.</p>
+
+</section>
+      </section>
+      <footer>
+        <p><small>&copy; SGVHAK &mdash; Theme based on Sundown by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <!-- Scale fix -->
+    <script>
+      var metas = document.getElementsByTagName('meta');
+      var i;
+      
+      if (navigator.userAgent.match(/iPhone/i)) {
+        for (i=0; i<metas.length; i++) {
+          if (metas[i].name == "viewport") {
+            metas[i].content = "width=device-width, minimum-scale=1.0, maximum-scale=1.0";
+          }
+        }
+      
+        document.addEventListener("gesturestart", gestureStart, false);
+      }
+
+      function gestureStart() {
+        for (i=0; i<metas.length; i++) {
+          if (metas[i].name == "viewport") {
+            metas[i].content = "width=device-width, minimum-scale=0.25, maximum-scale=1.6";
+          }
+        }
+      }
+    </script>
+  </body>
+</html>
