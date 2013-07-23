@@ -1,3 +1,6 @@
 [submodule "theme/cait"]
 	path = theme/cait
 	url = git@github.com:sgvhak/pelican-cait.git
+[submodule "theme/sundown"]
+	path = theme/sundown
+	url = git@github.com:sgvhak/pelican-sundown.git
