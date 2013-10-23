@@ -302,3 +302,14 @@ footer {
   float: right;
   font-size: 14px;
 }
+
+/* Classes for image options, non-exhaustive */
+.align-left {
+  float: left;
+  margin-right: 15px;
+}
+
+.align-right {
+  float: right;
+}
+
