@@ -12,14 +12,12 @@ The San Gabriel Valley Linux User's Group meets monthly at Caltech. Each month a
 
 ----
 
-`DIY Projects with Arduino for Everyone (Pasadena Robotics)`_
+`San Gabriel Valley Tech People`_
 -------------------------------------------------------------
 
-.. image:: |filename|/images/pasadena_robotics.jpg
+.. image:: |filename|/images/meetup_logo.png
 
-Out of the ashes of the OpenX Arduino Hackathon, this group plans to host a hands-on Arduino class once a month with provided materials. As well as 2 show-and-tells each month for people who want to showcase any project they want. 
+A meetup group that serves as an umbrella group encompassing the San Gabriel Valley Linux User's Group (SGVLUG), San Gabriel Valley HAK (SGVHAK), and Pasadena Ubuntu Hour groups. We are a community of people interested in topics such as, but not limited to: Linux, open source software, hardware hacking, microcontrollers and Ubuntu.
 
-A group for DIYers, Makers, Hobbyists, Tinkerers, Designers, Artists, Engineers...
-
-.. _DIY Projects with Arduino for Everyone (Pasadena Robotics): http://www.meetup.com/Arduino-Electronics-DIY-Robotics-Pasadena/
+.. _San Gabriel Valley Tech People: http://www.meetup.com/SGVTech/
 

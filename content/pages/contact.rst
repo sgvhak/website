@@ -1,5 +1,5 @@
-Contact
-#######
+Mailing List / IRC
+##################
 
 There are many ways to get involved and keep in touch.
 
