@@ -6,7 +6,7 @@ AUTHOR = u'Omwah'
 SITENAME = u'SGVHAK'
 SITESUBTITLE = 'San Gabriel Valley'
 SITESUBSUBTITLE = 'Hardware Hackers Group'
-SITELOGO = "/static/images/logo_01_cropped.png"
+SITELOGO = "/images/logo_01_cropped.png"
 SITEURL = ''
 
 TIMEZONE = 'US/Pacific'
@@ -25,6 +25,4 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-STATIC_PATHS = (['images'])
-
-FILES_TO_COPY = (("favicon.png", "favicon.png"), ("CNAME","CNAME"),)
+STATIC_PATHS = ['images', "favicon.png", "CNAME"]
