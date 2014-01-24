@@ -25,4 +25,8 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-STATIC_PATHS = ['images', "favicon.png", "CNAME"]
+STATIC_PATHS = ['images', 'favicon.png', 'CNAME', 'google6a5fead5ee534060.html']
+GOOGLE_ANALYTICS = 'UA-37597593-1'
+
+# Do not process html files through the reader
+READERS = {'html': None}
