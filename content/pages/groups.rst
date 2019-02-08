@@ -8,7 +8,7 @@ Other Groups
 
 The San Gabriel Valley Linux User's Group meets monthly at Caltech. Each month a speaker gives a presentation on Linux or technology related topics. 
 
-.. _San Gabriel Valley Linux User's Group: http://www.sgvlug.org/
+.. _San Gabriel Valley Linux User's Group: https://www.sgvlug.org/
 
 ----
 
@@ -19,5 +19,5 @@ The San Gabriel Valley Linux User's Group meets monthly at Caltech. Each month a
 
 A meetup group that serves as an umbrella group encompassing the San Gabriel Valley Linux User's Group (SGVLUG), San Gabriel Valley HAK (SGVHAK), and Pasadena Ubuntu Hour groups. We are a community of people interested in topics such as, but not limited to: Linux, open source software, hardware hacking, microcontrollers and Ubuntu.
 
-.. _San Gabriel Valley Tech People: http://www.meetup.com/SGVTech/
+.. _San Gabriel Valley Tech People: https://www.meetup.com/SGVTech/
 

@@ -7,5 +7,5 @@ There are many ways to get involved and keep in touch.
 
 2. Join us on IRC:
 
-   `#sgvhak <http://webchat.freenode.net/?channels=sgvhak>`_ on `freenode <https://www.freenode.net/>`_
+   `#sgvhak <https://webchat.freenode.net/?channels=sgvhak>`_ on `freenode <https://www.freenode.net/>`_
 

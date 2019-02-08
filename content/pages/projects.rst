@@ -24,4 +24,4 @@ Help contribute by visiting our `GitHub page`_.
 
 Open source hardware engineering. Today, the act of manufacturing is almost transparent to our everyday lives, but without the ability to manufacture we are at the mercy of our own worst nightmares. 
 
-.. _Tux-Lab Manufacturing Project: http://tux-lab.com/
+.. _Tux-Lab Manufacturing Project: https://tux-lab.com/
