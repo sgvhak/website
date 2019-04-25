@@ -14,6 +14,8 @@ you want to do a mini-presentation.
 In addition, Dave welcomes anyone to come by his shop on Mondays around 6PM to
 work on projects or chat informally.
 
+::
+
     Oxford VUE
     11711 Clark Street, Suite 108
     Arcadia, CA 91006
