@@ -9,3 +9,6 @@ There are many ways to get involved and keep in touch.
 
    `#sgvhak <https://webchat.freenode.net/?channels=sgvhak>`_ on `freenode <https://www.freenode.net/>`_
 
+3. Join us on Slack:
+
+   `Get an invite to sgvtech slack channel <https://bit.ly/sgvtech_slack>`_
